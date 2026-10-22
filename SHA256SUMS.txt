@@ -1,0 +1,1 @@
+c8b7da9c779bbf9d99c09383cfd2a4998dd700583b05dd8b95a6f1d434afeef5  out/mrdjjag-touchfx-test.so

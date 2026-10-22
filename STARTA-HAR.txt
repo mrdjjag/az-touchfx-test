@@ -1,0 +1,15 @@
+Förberedelse till Touch FX Display Test, för mrdjjag
+
+Detta är INTE ett installationspaket ännu. Kopiera inte dessa filer över
+MODS på spelarens USB. V51 lämnas oförändrad tills ett testpaket finns.
+
+1. Skapa ett offentligt repo på ditt GitHub-konto, t.ex. az-touchfx-test.
+2. Ladda upp källfilerna i denna mapp till repots rot. Mappen out/ behöver
+   inte laddas upp. Inga SSH-nycklar, backupfiler eller firmware medföljer.
+3. Skicka länken till repot i chatten.
+
+Därefter sätts paketets source-länk till repot, SDK-valideringen körs igen
+och ett riktigt .azmod-testpaket skapas. Källkodens source-fält bör sedan
+uppdateras även i repot. Ingen Mod Index-ansökan behövs för vårt eget test.
+
+Läs README.md för exakt vad den begränsade prototypen gör och inte gör.
