@@ -1,3 +1,5 @@
-Touch FX Display Test. Local prototype for mrdjjag.
-GPL-3.0-only. Uses the AZ-MODS SDK by Kyle-Hosman.
-Mixer frame format and follower behavior derived from Kyle-Hosman/xdj-az-mods GPL-3.0-only source and local v51 changes.
+Touch FX by mrdjjag. GPL-3.0-only.
+Based on Kyle Hosman's AZ-MODS and AZ-MODS SDK.
+Mixer frame decoding and follower behaviour derive from the upstream GPL source
+and earlier local Touch FX modifications. Full upstream/third-party notices and
+source licences are included in Touch-FX-0.8.0-public-source-draft.zip.
